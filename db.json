@@ -45,10 +45,10 @@
     {
       "categoryId": 6,
       "id": "f8062f1d-1a99-48a6-8318-82e1b791760e",
-      "name": "Licensed Frozen Table",
+      "name": "Smart Home Table",
       "color": "Pink",
       "price": 313.7,
-      "description": "Suscipit adsidue tribuo decimus antiquus. Adiuvo vivo ventosus curis. Uberrime absque advoco appositus.",
+      "description": "A modern smart table designed for convenience and style, perfect for any smart home setup.",
       "image": "https://static.wixstatic.com/media/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png/v1/fill/w_559,h_745,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png",
       "quantity": 25,
       "sold": 50,
@@ -58,10 +58,10 @@
     {
       "categoryId": 6,
       "id": "a799e982-c3fc-4147-b90f-3ed011f0dcce",
-      "name": "Rustic Rubber Chicken",
+      "name": "Wireless Bluetooth Speaker",
       "color": "Green",
       "price": 24.92,
-      "description": "Turba volup coadunatio tepidus capio volva crudelis aurum. Terminatio tenuis tui aro tametsi. Vitiosus volaticus adstringo triumphus ex.",
+      "description": "Enjoy high-quality sound anywhere with this portable wireless Bluetooth speaker. Long battery life and deep bass.",
       "image": "https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg",
       "quantity": 9,
       "sold": 95,
@@ -71,10 +71,10 @@
     {
       "categoryId": 6,
       "id": "9ca1ec31-4f84-4b93-9201-4b563606aa1d",
-      "name": "Bespoke Frozen Ball",
+      "name": "Portable Mini Projector",
       "color": "Yellow",
       "price": 451.79,
-      "description": "Corporis cibo aut rerum argumentum tracto credo callide pauci. Suadeo tametsi stella succurro. Acerbitas error quibusdam vado vergo celebrer.",
+      "description": "Compact and lightweight projector for home cinema or business presentations. Supports HD resolution.",
       "image": "https://static.wixstatic.com/media/c22c23_7b3b59adc71d48aea694647bfb4385b8~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_7b3b59adc71d48aea694647bfb4385b8~mv2.jpg",
       "quantity": 29,
       "sold": 80,
@@ -84,10 +84,10 @@
     {
       "categoryId": 6,
       "id": "c3c24a1d-ee19-4ab4-a3a3-fabd07db3af6",
-      "name": "Bespoke Metal Chair",
+      "name": "Ergonomic Gaming Chair",
       "color": "White",
       "price": 656.99,
-      "description": "Adeptio vitium atrox altus curto. Dedico vitium in sed consequuntur defungo hic crustulum dolore. Coaegresco valens varietas eum quam adulescens vulgivagus tero spoliatio quos.",
+      "description": "Experience ultimate comfort during long gaming sessions with this ergonomic, adjustable gaming chair.",
       "image": "https://static.wixstatic.com/media/c22c23_4567980aa0eb4bfba21b3706eaa8b2ca~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_4567980aa0eb4bfba21b3706eaa8b2ca~mv2.jpg",
       "quantity": 58,
       "sold": 5,
@@ -97,10 +97,10 @@
     {
       "categoryId": 1,
       "id": "cdeb77ec-8d44-4530-93f5-528c32cdf9f7",
-      "name": "Refined Soft Chicken",
+      "name": "Noise Cancelling Headphones",
       "color": "Red",
       "price": 203.09,
-      "description": "Spoliatio cena arma cerno denique ciminatio congregatio. Admoveo laboriosam sublime virga textus beatus uberrime aperte claustrum. Tamen artificiose denique argentum cupressus deduco articulus color nostrum.",
+      "description": "Immerse yourself in music with advanced noise-cancelling technology and crystal-clear audio.",
       "image": "https://static.wixstatic.com/media/c22c23_1bef44e4aad644d88da3458c1aa9c341~mv2.jpg/v1/fill/w_424,h_565,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_1bef44e4aad644d88da3458c1aa9c341~mv2.jpg",
       "quantity": 6,
       "sold": 29,
@@ -110,10 +110,10 @@
     {
       "categoryId": 1,
       "id": "79179cff-f841-43ad-acd5-0c27a7c20c6f",
-      "name": "Generic Bronze Pizza",
+      "name": "Ultra Bass Bluetooth Speaker",
       "color": "Red",
       "price": 629.74,
-      "description": "Tertius colligo baiulus. Ulciscor comparo tondeo nemo voluptatem error. Asper turpis quaerat.",
+      "description": "Powerful Bluetooth speaker with ultra bass technology for an immersive sound experience.",
       "image": "https://static.wixstatic.com/media/c22c23_527e6c6f3d944fb88c80907c2f754afb~mv2.jpg/v1/fill/w_424,h_565,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_527e6c6f3d944fb88c80907c2f754afb~mv2.jpg",
       "quantity": 44,
       "sold": 1,
@@ -123,10 +123,10 @@
     {
       "categoryId": 1,
       "id": "1d353042-a5a6-4558-8e76-0b6cd42ece18",
-      "name": "Small Wooden Soap",
+      "name": "Wireless Mouse Pro",
       "color": "White",
       "price": 87.35,
-      "description": "Deorsum doloremque dedecor vindico suus absum spiritus. Tertius spargo crux arbustum stultus truculenter contigo undique. Valeo contigo curvo acervus causa tepidus.",
+      "description": "Precision wireless mouse with ergonomic design and long-lasting battery for professional use.",
       "image": "https://static.wixstatic.com/media/c22c23_68efa76790cf48a7acdb518977ce72a1~mv2.png/v1/fill/w_424,h_565,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_68efa76790cf48a7acdb518977ce72a1~mv2.png ",
       "quantity": 76,
       "sold": 54,
@@ -136,10 +136,10 @@
     {
       "categoryId": 1,
       "id": "954ee3fc-96e8-4e6e-bbb7-1f20e6ac05e4",
-      "name": "Oriental Bronze Chicken",
+      "name": "True Wireless Earbuds",
       "color": "Purple",
       "price": 137.35,
-      "description": "Deficio tamdiu itaque usque ante ara. Illum admitto alienus delicate placeat. Armarium administratio spectaculum cubitum coma calco thermae vae.",
+      "description": "True wireless earbuds with touch controls, noise isolation, and a compact charging case.",
       "image": "https://static.wixstatic.com/media/c22c23_7b3b59adc71d48aea694647bfb4385b8~mv2.jpg/v1/fill/w_424,h_565,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_7b3b59adc71d48aea694647bfb4385b8~mv2.jpg",
       "quantity": 97,
       "sold": 67,
@@ -149,10 +149,10 @@
     {
       "categoryId": 4,
       "id": "bb000478-078c-4ba9-b670-8c84837b7a9d",
-      "name": "Rustic Fresh Soap",
+      "name": "Smart LED Desk Lamp",
       "color": "Black",
       "price": 228.99,
-      "description": "Colo sodalitas vir confugo veritatis torrens sunt similique. Statim autem artificiose decretum hic adulatio cenaculum aetas tenus considero. Beatus confido porro suadeo eligendi vinitor uberrime repellendus cavus perspiciatis.",
+      "description": "Adjustable LED desk lamp with smart touch controls and multiple brightness levels.",
       "image": "https://static.wixstatic.com/media/c22c23_a79ca5eba4af45bc99bf27f0d9eb637d~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_a79ca5eba4af45bc99bf27f0d9eb637d~mv2.jpg",
       "quantity": 85,
       "sold": 1,
@@ -162,10 +162,10 @@
     {
       "categoryId": 4,
       "id": "d86e0431-c638-46c0-8bb6-2ef626245aec",
-      "name": "Elegant Metal Pizza",
+      "name": "Hi-Res Audio Speaker",
       "color": "Blue",
       "price": 747.37,
-      "description": "Civitas nihil adipiscor conventus facilis triduana coma cubicularis triumphus. Deleo acerbitas subseco aptus approbo. Caterva totus modi asper cito cupressus demitto debitis magni crinis.",
+      "description": "High-resolution audio speaker delivering clear treble and deep bass for audiophiles.",
       "image": "https://static.wixstatic.com/media/c22c23_35b786fdd0bb443e9ac09561af1569d3~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_35b786fdd0bb443e9ac09561af1569d3~mv2.jpg",
       "quantity": 81,
       "sold": 66,
@@ -175,10 +175,10 @@
     {
       "categoryId": 4,
       "id": "91e567aa-a8b8-453f-a130-170b6af49fa6",
-      "name": "Refined Cotton Ball",
+      "name": "Fast Wireless Charger",
       "color": "Orange",
       "price": 44.39,
-      "description": "Clam tricesimus avaritia vel appositus mollitia carpo. Sui vallum defessus corrumpo. Eum ultra civitas.",
+      "description": "Charge your devices quickly and safely with this fast wireless charging pad.",
       "image": "https://static.wixstatic.com/media/c22c23_991175ea1f9140648365694757467456~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_991175ea1f9140648365694757467456~mv2.jpg",
       "quantity": 6,
       "sold": 69,
@@ -188,10 +188,10 @@
     {
       "categoryId": 4,
       "id": "179afb2d-cba5-491e-9e21-5cfeb498361f",
-      "name": "Oriental Rubber Chair",
+      "name": "Adjustable Laptop Stand",
       "color": "Pink",
       "price": 729.87,
-      "description": "Id totidem color arbor clam debeo caute vivo sequi confugo. Teneo cernuus venia. Cenaculum cervus coniecto ambitus unus.",
+      "description": "Sturdy and adjustable laptop stand for better posture and cooling efficiency.",
       "image": "https://static.wixstatic.com/media/c22c23_d898eb06de73454788ddf633d055e85b~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_d898eb06de73454788ddf633d055e85b~mv2.jpg",
       "quantity": 55,
       "sold": 8,
@@ -201,10 +201,10 @@
     {
       "categoryId": 4,
       "id": "db2188fb-16e4-418e-a2db-35c1563534c8",
-      "name": "Electronic Granite Keyboard",
+      "name": "RGB Mechanical Keyboard",
       "color": "Blue",
       "price": 1.49,
-      "description": "Amor tametsi delego infit claustrum video. Tenetur aranea suggero fuga cenaculum. Victus conforto conqueror.",
+      "description": "Mechanical keyboard with customizable RGB lighting and tactile switches for gamers.",
       "image": "https://static.wixstatic.com/media/c22c23_75059a72af5e4949aecdfbda8746f4ef~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_75059a72af5e4949aecdfbda8746f4ef~mv2.jpg",
       "quantity": 35,
       "sold": 33,
@@ -721,24 +721,14 @@
   ],
   "users": [
     {
-      "id": "9eb4e2c9-c858-495f-8da5-c1bd842c1163",
-      "username": "admin",
-      "fullname": "ADMIN",
-      "email": "admin@admin.com",
-      "role": "admin",
-      "password": "123456",
-      "createdAt": 1727712188649,
-      "updatedAt": 1727712188649
-    },
-    {
-      "id": "c513e96d-eb87-4e23-93f7-44fabcbf033f",
       "username": "adminmanager",
-      "fullname": "Domingo Schoen",
+      "fullname": "Manager",
       "email": "adminmanager@admin",
+      "oldpassword": "123456",
+      "newpassword": "1234567",
       "role": "admin",
-      "password": "123456",
-      "createdAt": 1727712188649,
-      "updatedAt": 1727712188649
+      "password": "1234567",
+      "id": "c513e96d-eb87-4e23-93f7-44fabcbf033f"
     },
     {
       "username": "nguyenvanngan",
@@ -747,9 +737,23 @@
       "password": "123456",
       "role": "",
       "id": "218b5cd3-2a34-4ae0-9327-f79f5daceba4"
+    },
+    {
+      "username": "admin",
+      "fullname": "ADMIN",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "createdAt": 1728398098183,
+      "id": "uHoXeIT"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "quantity": 3,
+      "id": 1
+    }
+  ],
   "orders": [
     {
       "fullName": "Nguyễn Văn Ngân",
@@ -757,25 +761,106 @@
       "phone": "0387023315",
       "address": "17 hoàng thúc trâm",
       "note": "",
-      "userId": "9eb4e2c9-c858-495f-8da5-c1bd842c1163",
+      "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+      "products": [
+        {
+          "img": "https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg",
+          "productId": "a799e982-c3fc-4147-b90f-3ed011f0dcce",
+          "quantity": 1,
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Wireless Bluetooth Speaker"
+        }
+      ],
+      "totalAmount": 34.92,
+      "date": "2024-10-08T11:01:49.683Z",
+      "createdAt": 1728385309702,
+      "id": 2
+    },
+    {
+      "fullName": "Nguyễn Văn Ngân",
+      "email": "nganvippro1234@gmail.com",
+      "phone": "0387023315",
+      "address": "17 hoàng thúc trâm",
+      "note": "",
+      "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+      "products": [
+        {
+          "img": "https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg",
+          "productId": "a799e982-c3fc-4147-b90f-3ed011f0dcce",
+          "quantity": 1,
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Wireless Bluetooth Speaker"
+        },
+        {
+          "img": "https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg",
+          "productId": "a799e982-c3fc-4147-b90f-3ed011f0dcce",
+          "quantity": 1,
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Wireless Bluetooth Speaker"
+        },
+        {
+          "img": "https://static.wixstatic.com/media/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg/v1/fill/w_559,h_745,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c22c23_5ccf45bbbdf842e7955635610510f7c3~mv2.jpg",
+          "productId": "a799e982-c3fc-4147-b90f-3ed011f0dcce",
+          "quantity": 3,
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Wireless Bluetooth Speaker"
+        }
+      ],
+      "totalAmount": 134.60000000000002,
+      "date": "2024-10-08T12:15:47.926Z",
+      "createdAt": 1728389747934,
+      "id": 3
+    },
+    {
+      "fullName": "Nguyễn Văn Ngân",
+      "email": "nganvippro1234@gmail.com",
+      "phone": "0387023315",
+      "address": "17 hoàng thúc trâm",
+      "note": "",
+      "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
       "products": [
         {
           "img": "https://static.wixstatic.com/media/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png/v1/fill/w_559,h_745,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png",
           "productId": "f8062f1d-1a99-48a6-8318-82e1b791760e",
           "quantity": 1,
-          "userId": "9eb4e2c9-c858-495f-8da5-c1bd842c1163"
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Smart Home Table"
         },
         {
-          "img": "https://static.wixstatic.com/media/c22c23_991175ea1f9140648365694757467456~mv2.jpg/v1/fill/w_374,h_498,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/c22c23_991175ea1f9140648365694757467456~mv2.jpg",
-          "productId": "91e567aa-a8b8-453f-a130-170b6af49fa6",
+          "img": "https://static.wixstatic.com/media/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png/v1/fill/w_559,h_745,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/c22c23_d4488c12f2bc40dfbd1bbd82956eb97a~mv2.png",
+          "productId": "f8062f1d-1a99-48a6-8318-82e1b791760e",
           "quantity": 1,
-          "userId": "9eb4e2c9-c858-495f-8da5-c1bd842c1163"
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Smart Home Table"
         }
       ],
-      "totalAmount": 368.09,
-      "date": "2024-10-01T04:36:16.075Z",
-      "createdAt": 1727757376085,
-      "id": 1
+      "totalAmount": 637.4,
+      "date": "2024-10-10T14:01:58.616Z",
+      "createdAt": 1728568918623,
+      "id": 4
+    },
+    {
+      "fullName": "Nguyễn Văn Ngân",
+      "email": "nganvippro1234@gmail.com",
+      "phone": "0387023315",
+      "address": "17 hoàng thúc trâm",
+      "note": "",
+      "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+      "products": [
+        {
+          "img": "https://shopdunk.com/images/thumbs/0022544_macbook-pro-14-inch-m3-2023-16gb-ram-512gb-ssd_550.jpeg",
+          "productId": "2ac0e184-2c0e-4a56-8d37-c4016a26ba80",
+          "quantity": 1,
+          "userId": "218b5cd3-2a34-4ae0-9327-f79f5daceba4",
+          "nameProduct": "Fantastic Metal Gloves"
+        }
+      ],
+      "totalAmount": 246.29,
+      "date": "2025-04-17T15:44:37.569Z",
+      "status": "Pending Confirmation",
+      "dateUpdate": "2025-04-17T15:44:37.569Z",
+      "createdAt": 1744904680682,
+      "id": 5
     }
   ],
   "reviews": []

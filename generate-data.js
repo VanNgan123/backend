@@ -243,21 +243,6 @@ const main = () => {
     name: newCategoryNames[index] , // Cập nhật tên mới hoặc giữ tên cũ
     updatedAt: Date.now(), // Thêm thời gian cập nhật
   }));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   const db = {
     categories: categorie,
     products: productList,
